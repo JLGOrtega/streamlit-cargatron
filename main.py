@@ -22,7 +22,7 @@ if uploaded_file is not None:
     datos = pd.read_csv(uploaded_file)
 
 
-st.title("CARGATRON")
+st.title("CARGATRON APP")
 
 if option == "Home":
 
